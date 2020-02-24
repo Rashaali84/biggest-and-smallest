@@ -1,4 +1,4 @@
-# soc-week-3-project
+# biggest-and-smallest
 
 ## Table of contents
 
